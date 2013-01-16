@@ -1,7 +1,7 @@
 Turing-Machine_Simulator
 ========================
 
-Turing Machine Simulator, specifically for three machines: 
+Turing Machine Simulator, with three sample machines included.
 
 Overview
 --------
